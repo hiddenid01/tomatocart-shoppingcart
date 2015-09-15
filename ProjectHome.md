@@ -1,0 +1,4 @@
+Rich Internet applications (RIAs) are web applications that provide a graphical user interface similar to that of Windows and Mac. Combined with modern technology Ajax, web desktop applications offer significant usability. It makes interaction with the web interfaces faster and more efficient.
+The TomatoCart administration panel is completely written with ExtJS, a cross-browser JavaScript library for building RIAs. It offers plenty of super-high-quality widgets to build web application. It will take only several clicks to complete a transaction, while traditional HTML-based applications may require several page redraws.
+
+In addition, web desktop applications support multi-window operations, so that store owners can work with Articles, FAQs and Article Categories at the same time. And Sidebar is the latest feature. It serves as a real-time monitor of online business with four practical gadgets, Clock, New Emails, New Customers and New Orders.
